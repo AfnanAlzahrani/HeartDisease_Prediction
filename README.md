@@ -4,10 +4,14 @@
 
 
 
-## xxx
+## Review
+
+We used the heart Disease datasetto build a Multi-Linear Regression to predict the sysBP model and a Logistic regression model to predict the TenYearCHD column
 
 
+## Resources
 
+https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
 
 ## :octocat:	Team Memebers
 
